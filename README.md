@@ -49,11 +49,11 @@ README.md
 
 ### 3D Front
 
-![Front](Images/pcb_3d_f.png)
+![Front](Images/pcb_3d_F.png)
 
 ### 3D Back
 
-![Back](Images/pcb_3d_b.png)
+![Back](Images/pcb_3d_B.png)
 
 ---
 
